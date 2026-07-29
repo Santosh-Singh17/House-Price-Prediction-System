@@ -413,7 +413,6 @@ st.markdown("""
 
 <p>Developed using Streamlit & Machine Learning</p>
 
-<p>© 2026 All Rights Reserved</p>
 
 </div>
 """, unsafe_allow_html=True)
