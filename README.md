@@ -1,4 +1,4 @@
-# House Price Prediction System
+# 🏠House Price Prediction System
 
 ## Project Description
 
@@ -32,7 +32,8 @@ The House Price Prediction System is a Machine Learning project that predicts ho
 ## Live Demo
 
 Streamlit App:
-[https://house-price-prediction-system-yk2cavgakcwpu2mxdhuqce.streamlit.app/](https://student-performance-prediction-raxxy5n34ozequn3cfjtoq.streamlit.app/)
+[https://house-price-prediction-system-yk2cavgakcwpu2mxdhuqce.streamlit.app/](https://house-price-prediction-system-yk2cavgakcwpu2mxdhuqce.streamlit.app/)
+
 
 ## How to Run Locally
 
